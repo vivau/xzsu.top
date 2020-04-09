@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>johndoe</title>
+    <title>狮小奇</title>
     <link>https://happy-babbage-f14588.netlify.com/</link>
-    <description>Recent content on johndoe</description>
+    <description>Recent content on 狮小奇</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-cn</language>
     <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://happy-babbage-f14588.netlify.com/index.xml" rel="self" type="application/rss+xml" />
@@ -25,12 +25,12 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$This is text with 
     </item>
     
     <item>
-      <title>Hugo coder wiki</title>
-      <link>https://happy-babbage-f14588.netlify.com/posts/hugo-coder-wiki/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Dummy</title>
+      <link>https://happy-babbage-f14588.netlify.com/posts/dummy/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://happy-babbage-f14588.netlify.com/posts/hugo-coder-wiki/</guid>
-      <description></description>
+      <guid>https://happy-babbage-f14588.netlify.com/posts/dummy/</guid>
+      <description>Nada para ver aqui!</description>
     </item>
     
     <item>
@@ -115,6 +115,15 @@ Setup Some fun facts about Hugo:
     </item>
     
     <item>
+      <title>Contato</title>
+      <link>https://happy-babbage-f14588.netlify.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://happy-babbage-f14588.netlify.com/contact/</guid>
+      <description>Me siga em @joaoninguem.</description>
+    </item>
+    
+    <item>
       <title>First snippet</title>
       <link>https://happy-babbage-f14588.netlify.com/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -134,6 +143,15 @@ pwd</description>
     </item>
     
     <item>
+      <title>Projetos</title>
+      <link>https://happy-babbage-f14588.netlify.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://happy-babbage-f14588.netlify.com/projects/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
+    </item>
+    
+    <item>
       <title>Second snippet</title>
       <link>https://happy-babbage-f14588.netlify.com/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -141,6 +159,15 @@ pwd</description>
       <guid>https://happy-babbage-f14588.netlify.com/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la</description>
+    </item>
+    
+    <item>
+      <title>Sobre Hugo</title>
+      <link>https://happy-babbage-f14588.netlify.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://happy-babbage-f14588.netlify.com/about/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
   </channel>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on johndoe</title>
+    <title>hugo on 狮小奇</title>
     <link>https://happy-babbage-f14588.netlify.com/tags/hugo/</link>
-    <description>Recent content in hugo on johndoe</description>
+    <description>Recent content in hugo on 狮小奇</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://happy-babbage-f14588.netlify.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hugo coder wiki</title>
-      <link>https://happy-babbage-f14588.netlify.com/posts/hugo-coder-wiki/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Dummy</title>
+      <link>https://happy-babbage-f14588.netlify.com/posts/dummy/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://happy-babbage-f14588.netlify.com/posts/hugo-coder-wiki/</guid>
-      <description></description>
+      <guid>https://happy-babbage-f14588.netlify.com/posts/dummy/</guid>
+      <description>Nada para ver aqui!</description>
     </item>
     
     <item>
