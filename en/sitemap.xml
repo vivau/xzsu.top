@@ -3,222 +3,222 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/series/hugo/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/series/hugo/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/post/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/posts/render-latex-using-katex/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="https://happy-babbage-f14588.netlify.com/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://happy-babbage-f14588.netlify.com/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/series/theme/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/post/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <loc>https://happy-babbage-f14588.netlify.com/posts/render-latex-using-katex/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happy-babbage-f14588.netlify.com/series/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://happy-babbage-f14588.netlify.com/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://happy-babbage-f14588.netlify.com/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/development/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <loc>https://happy-babbage-f14588.netlify.com/series/theme/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/development/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/hugo/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/categories/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/hugo/"
+                href="https://happy-babbage-f14588.netlify.com/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/hugo/"
+                href="https://happy-babbage-f14588.netlify.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/hugo-coder-wiki/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/categories/development/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/tags/development/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happy-babbage-f14588.netlify.com/tags/hugo/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="https://happy-babbage-f14588.netlify.com/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://happy-babbage-f14588.netlify.com/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/themes/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/theme-demo/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/tags/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://happy-babbage-f14588.netlify.com/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://happy-babbage-f14588.netlify.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://happy-babbage-f14588.netlify.com/tags/themes/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happy-babbage-f14588.netlify.com/posts/theme-demo/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/creating-a-new-theme/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/hugo-template-primer/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/posts/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/getting-started/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/series/getting-started/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/hugoisforlovers/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/go/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/golang/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/golang/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/templates/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/migrate-from-jekyll/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/about/"
+                href="https://happy-babbage-f14588.netlify.com/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="https://happy-babbage-f14588.netlify.com/about/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/contact/"
+                href="https://happy-babbage-f14588.netlify.com/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="https://happy-babbage-f14588.netlify.com/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/first/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/snippets/first/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/projects/"
+                href="https://happy-babbage-f14588.netlify.com/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="https://happy-babbage-f14588.netlify.com/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/second/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/snippets/second/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/</loc>
+    <loc>https://happy-babbage-f14588.netlify.com/snippets/</loc>
   </url>
   
 </urlset>
