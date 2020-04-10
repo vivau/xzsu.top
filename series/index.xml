@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 狮小奇</title>
-    <link>https://happy-babbage-f14588.netlify.com/series/</link>
+    <link>https://xzsu.top/series/</link>
     <description>Recent content in Series on 狮小奇</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://happy-babbage-f14588.netlify.com/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xzsu.top/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>https://happy-babbage-f14588.netlify.com/series/hugo/</link>
+      <link>https://xzsu.top/series/hugo/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://happy-babbage-f14588.netlify.com/series/hugo/</guid>
+      <guid>https://xzsu.top/series/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>https://happy-babbage-f14588.netlify.com/series/theme/</link>
+      <link>https://xzsu.top/series/theme/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://happy-babbage-f14588.netlify.com/series/theme/</guid>
+      <guid>https://xzsu.top/series/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>https://happy-babbage-f14588.netlify.com/series/getting-started/</link>
+      <link>https://xzsu.top/series/getting-started/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://happy-babbage-f14588.netlify.com/series/getting-started/</guid>
+      <guid>https://xzsu.top/series/getting-started/</guid>
       <description></description>
     </item>
     
