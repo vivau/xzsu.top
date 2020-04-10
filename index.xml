@@ -93,19 +93,6 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About Hugo</title>
-      <link>https://xzsu.top/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xzsu.top/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://xzsu.top/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -168,6 +155,15 @@ ls -la</description>
       
       <guid>https://xzsu.top/about/</guid>
       <description>Em construção&amp;hellip; Aguarde!</description>
+    </item>
+    
+    <item>
+      <title>关于lionqi</title>
+      <link>https://xzsu.top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xzsu.top/about/</guid>
+      <description> 电子爱好者，追求极致 嵌入式软件工程师，软硬件兼攻，热爱电子技术 对嵌入式软硬件和智能设备相关技术经验丰富 现着重研究算法及机器学习 有感兴趣的可以联系bkxr@outlook.com  </description>
     </item>
     
   </channel>
