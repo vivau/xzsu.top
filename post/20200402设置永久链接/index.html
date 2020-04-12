@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+  <head>
+        
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-163313134-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-163313134-1');
+    </script>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="Lionqi">
+    <meta name="description" content="电子爱好者">
+    <meta name="keywords" content="嵌入式、机器学习">
+
+    <base href="https://xzsu.top">
+    <title>
+  Hexo|hexo&#43;next7.3.0设置永久链接 · 狮小奇
+</title>
+
+    <link rel="canonical" href="https://xzsu.top/post/20200402%E8%AE%BE%E7%BD%AE%E6%B0%B8%E4%B9%85%E9%93%BE%E6%8E%A5/">
+
+    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700">
+    <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
+    <link rel="stylesheet" href="https://xzsu.top/css/style.min.css">
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="https://xzsu.top/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://xzsu.top/images/favicon-16x16.png" sizes="16x16">
+
+    
+
+    <meta name="generator" content="Hugo 0.68.3" />
+  </head>
+
+  <body class="">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://xzsu.top/">
+      狮小奇
+    </a>
+    <input type="checkbox" id="menu-control"/>
+    <label class="menu-mobile  float-right " for="menu-control">
+      <span class="btn-mobile  float-right ">&#9776;</span>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item   align-left  ">
+              <a class="navigation-link" href="https://xzsu.top/about/">关于</a>
+            </li>
+          
+            <li class="navigation-item   align-left  ">
+              <a class="navigation-link" href="https://xzsu.top/post/">博客</a>
+            </li>
+          
+            <li class="navigation-item   align-left  ">
+              <a class="navigation-link" href="https://xzsu.top/projects/">项目</a>
+            </li>
+          
+            <li class="navigation-item   align-left  ">
+              <a class="navigation-link" href="https://xzsu.top/contact/">联系我</a>
+            </li>
+          
+        
+        
+          
+          
+          
+          
+            
+          
+            
+              
+                
+                
+              
+              <li class="navigation-item   align-left  ">
+                <a href="https://xzsu.top/en/">English</a>
+              </li>
+            
+          
+        
+      </ul>
+    </label>
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1>Hexo|hexo&#43;next7.3.0设置永久链接</h1>
+    </header>
+
+    <h2 id="hexohexonext730设置永久链接">Hexo|hexo+next7.3.0设置永久链接</h2>
+<p>next主题默认的URL地址格式比较长，如果是标题中文比较长的话浏览器就会出现如下：</p>
+<p><img src="image-20200402214502203.png" alt="image-20200402214502203"></p>
+<p>链接很长而且并且很不美观。后经过调整，为如下效果：</p>
+<p><img src="image-20200402214659754.png" alt="image-20200402214659754"></p>
+<!-- raw HTML omitted -->
+<h3 id="设置方法">设置方法</h3>
+<ol>
+<li>
+<p>首先找到站点配置文件（并非主题配置文件），及根目录下的_config.ym搜索找到如下段落：</p>
+<p><img src="image-20200402214937385.png" alt=""></p>
+<p>将URL段落的permalink（永久链接）格式依照个人喜好调试，格式含义<code>post/</code>字段是子目录</p>
+<p><code>:year</code> <code>:month</code> <code>:day</code> 分别代表的是年月日对应格式是<code>20200329</code>，随后的<code>id.html</code>中的id需要在文章中定义，如果没有定义则填充<code>undefine</code>。</p>
+</li>
+<li>
+<p>在文章中添加id标签</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">---
+title: 网络|N1盒子做旁路由刷OpenWRT系统（小白专用）
+date: 2020-03-29 21:35:58 
+id: xzsu
+tags: N1 
+comment: true
+---
+</code></pre></div><p>例如我的id是xzsu。如果同一天发布多篇文章，则要注意修改id来区分博文URL。</p>
+</li>
+</ol>
+
+  </article>
+</section>
+
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+     
+  </section>
+</footer>
+
+    </main>
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-163313134-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+  </body>
+
+</html>

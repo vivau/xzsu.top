@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>next on 狮小奇</title>
+    <link>https://xzsu.top/tags/next/</link>
+    <description>Recent content in next on 狮小奇</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 02 Apr 2020 21:34:28 +0800</lastBuildDate>
+    
+	<atom:link href="https://xzsu.top/tags/next/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hexo|hexo&#43;next7.3.0设置永久链接</title>
+      <link>https://xzsu.top/post/20200402%E8%AE%BE%E7%BD%AE%E6%B0%B8%E4%B9%85%E9%93%BE%E6%8E%A5/</link>
+      <pubDate>Thu, 02 Apr 2020 21:34:28 +0800</pubDate>
+      
+      <guid>https://xzsu.top/post/20200402%E8%AE%BE%E7%BD%AE%E6%B0%B8%E4%B9%85%E9%93%BE%E6%8E%A5/</guid>
+      <description>Hexo|hexo+next7.3.0设置永久链接 next主题默认的URL地址格式比较长，如果是标题中文比较长的话浏览器就会出现如下：
+链接很长而且并且很不美观。后经过调整，为如下效果：
+设置方法   首先找到站点配置文件（并非主题配置文件），及根目录下的_config.ym搜索找到如下段落：
+将URL段落的permalink（永久链接）格式依照个人喜好调试，格式含义post/字段是子目录
+:year :month :day 分别代表的是年月日对应格式是20200329，随后的id.html中的id需要在文章中定义，如果没有定义则填充undefine。
+  在文章中添加id标签
+--- title: 网络|N1盒子做旁路由刷OpenWRT系统（小白专用） date: 2020-03-29 21:35:58 id: xzsu tags: N1 comment: true --- 例如我的id是xzsu。如果同一天发布多篇文章，则要注意修改id来区分博文URL。
+  </description>
+    </item>
+    
+  </channel>
+</rss>

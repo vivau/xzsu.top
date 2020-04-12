@@ -3,12 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xzsu.top/series/hugo/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <loc>https://xzsu.top/post/20200411first/</loc>
+    <lastmod>2020-04-11T21:27:58+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://xzsu.top/post/</loc>
+    <lastmod>2020-04-11T21:27:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xzsu.top/</loc>
+    <lastmod>2020-04-11T21:27:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xzsu.top/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://xzsu.top/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xzsu.top/post/20200408test/</loc>
+    <lastmod>2020-04-08T22:12:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xzsu.top/tags/hexo/</loc>
+    <lastmod>2020-04-02T21:34:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xzsu.top/post/20200402%E8%AE%BE%E7%BD%AE%E6%B0%B8%E4%B9%85%E9%93%BE%E6%8E%A5/</loc>
+    <lastmod>2020-04-02T21:34:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xzsu.top/tags/next/</loc>
+    <lastmod>2020-04-02T21:34:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xzsu.top/tags/</loc>
+    <lastmod>2020-04-02T21:34:28+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xzsu.top/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://xzsu.top/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xzsu.top/tags/n1/</loc>
+    <lastmod>2020-03-29T21:35:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xzsu.top/tags/opnwrt/</loc>
+    <lastmod>2020-03-29T21:35:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xzsu.top/post/20200329%E7%BD%91%E7%BB%9C-n1%E7%9B%92%E5%AD%90%E5%81%9A%E6%97%81%E8%B7%AF%E7%94%B1%E5%88%B7openwrt%E7%B3%BB%E7%BB%9F%E5%B0%8F%E7%99%BD%E4%B8%93%E7%94%A8/</loc>
+    <lastmod>2020-03-29T21:35:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xzsu.top/series/hugo/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -35,21 +105,6 @@
   <url>
     <loc>https://xzsu.top/series/theme/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xzsu.top/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xzsu.top/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://xzsu.top/"
-                />
   </url>
   
   <url>
@@ -85,21 +140,6 @@
   <url>
     <loc>https://xzsu.top/tags/i18n/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xzsu.top/tags/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xzsu.top/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://xzsu.top/tags/"
-                />
   </url>
   
   <url>
