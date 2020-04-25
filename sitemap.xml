@@ -10,34 +10,41 @@
   
   <url>
     <loc>https://xzsu.top/tags/hexo/</loc>
-    <lastmod>2020-04-02T21:34:28+08:00</lastmod>
+    <lastmod>2020-04-03T21:12:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://xzsu.top/post/%E8%AE%BE%E7%BD%AE%E6%B0%B8%E4%B9%85%E9%93%BE%E6%8E%A5/</loc>
-    <lastmod>2020-04-02T21:34:28+08:00</lastmod>
+    <loc>https://xzsu.top/post/hexo%E6%96%87%E7%AB%A0%E6%98%BE%E7%A4%BA%E5%A4%9A%E4%B8%AA%E9%98%85%E8%AF%BB%E7%BB%9F%E8%AE%A1/</loc>
+    <lastmod>2020-04-03T21:12:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://xzsu.top/tags/next/</loc>
-    <lastmod>2020-04-02T21:34:28+08:00</lastmod>
+    <lastmod>2020-04-03T21:12:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://xzsu.top/post/</loc>
-    <lastmod>2020-04-02T21:34:28+08:00</lastmod>
+    <lastmod>2020-04-03T21:12:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://xzsu.top/tags/</loc>
+    <lastmod>2020-04-03T21:12:46+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xzsu.top/post/%E8%AE%BE%E7%BD%AE%E6%B0%B8%E4%B9%85%E9%93%BE%E6%8E%A5/</loc>
     <lastmod>2020-04-02T21:34:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

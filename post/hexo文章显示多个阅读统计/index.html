@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Hexo|Hexo&#43;Next7.3.0文章显示多个阅读次数统计 - 狮小奇</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="neobuddy" /><meta name="description" content="Hexo|Hexo&#43;Next7.3.0文章显示多个阅读次数统计 现象 首页显示如下：
+点开文章之后显示如下：
+会有两个阅读次数显示。
+解决方法   由于同时安装了Valine评论系统和LeanCloud文章次数统计，两款插件同时使用LeanCloud进行数据统计，会产生冲突，但Valine已对后者兼容。打开next主题配置文件_config.yml选择valine的visitor，然后关闭leancloud_visitors。配置如下：
+valine: visitor: true leancloud_visitors: enable: false   由于使用了valine的统计文章阅读，并且也使用了 不蒜子的统计功能，造成了上边的现象，只需要将不蒜子的post_views关闭即可。如下图所示
+  " /><meta name="keywords" content="Hugo, theme, even" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.69.0 with theme even" />
+
+
+<link rel="canonical" href="https://xzsu.top/post/hexo%E6%96%87%E7%AB%A0%E6%98%BE%E7%A4%BA%E5%A4%9A%E4%B8%AA%E9%98%85%E8%AF%BB%E7%BB%9F%E8%AE%A1/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<link href="/dist/even.7fb6854c.min.css" rel="stylesheet">
+<link href="/lib/fancybox/jquery.fancybox-3.1.20.min.css" rel="stylesheet">
+<meta property="og:title" content="Hexo|Hexo&#43;Next7.3.0文章显示多个阅读次数统计" />
+<meta property="og:description" content="Hexo|Hexo&#43;Next7.3.0文章显示多个阅读次数统计 现象 首页显示如下：
+点开文章之后显示如下：
+会有两个阅读次数显示。
+解决方法   由于同时安装了Valine评论系统和LeanCloud文章次数统计，两款插件同时使用LeanCloud进行数据统计，会产生冲突，但Valine已对后者兼容。打开next主题配置文件_config.yml选择valine的visitor，然后关闭leancloud_visitors。配置如下：
+valine: visitor: true leancloud_visitors: enable: false   由于使用了valine的统计文章阅读，并且也使用了 不蒜子的统计功能，造成了上边的现象，只需要将不蒜子的post_views关闭即可。如下图所示
+  " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://xzsu.top/post/hexo%E6%96%87%E7%AB%A0%E6%98%BE%E7%A4%BA%E5%A4%9A%E4%B8%AA%E9%98%85%E8%AF%BB%E7%BB%9F%E8%AE%A1/" />
+<meta property="article:published_time" content="2020-04-03T21:12:46+08:00" />
+<meta property="article:modified_time" content="2020-04-03T21:12:46+08:00" />
+<meta itemprop="name" content="Hexo|Hexo&#43;Next7.3.0文章显示多个阅读次数统计">
+<meta itemprop="description" content="Hexo|Hexo&#43;Next7.3.0文章显示多个阅读次数统计 现象 首页显示如下：
+点开文章之后显示如下：
+会有两个阅读次数显示。
+解决方法   由于同时安装了Valine评论系统和LeanCloud文章次数统计，两款插件同时使用LeanCloud进行数据统计，会产生冲突，但Valine已对后者兼容。打开next主题配置文件_config.yml选择valine的visitor，然后关闭leancloud_visitors。配置如下：
+valine: visitor: true leancloud_visitors: enable: false   由于使用了valine的统计文章阅读，并且也使用了 不蒜子的统计功能，造成了上边的现象，只需要将不蒜子的post_views关闭即可。如下图所示
+  ">
+<meta itemprop="datePublished" content="2020-04-03T21:12:46&#43;08:00" />
+<meta itemprop="dateModified" content="2020-04-03T21:12:46&#43;08:00" />
+<meta itemprop="wordCount" content="15">
+
+
+
+<meta itemprop="keywords" content="Hexo,Next," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hexo|Hexo&#43;Next7.3.0文章显示多个阅读次数统计"/>
+<meta name="twitter:description" content="Hexo|Hexo&#43;Next7.3.0文章显示多个阅读次数统计 现象 首页显示如下：
+点开文章之后显示如下：
+会有两个阅读次数显示。
+解决方法   由于同时安装了Valine评论系统和LeanCloud文章次数统计，两款插件同时使用LeanCloud进行数据统计，会产生冲突，但Valine已对后者兼容。打开next主题配置文件_config.yml选择valine的visitor，然后关闭leancloud_visitors。配置如下：
+valine: visitor: true leancloud_visitors: enable: false   由于使用了valine的统计文章阅读，并且也使用了 不蒜子的统计功能，造成了上边的现象，只需要将不蒜子的post_views关闭即可。如下图所示
+  "/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163313134-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-163313134-1');
+</script>
+
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">狮小奇</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">首页</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">归档</li>
+      </a><a href="/tags/">
+        <li class="mobile-menu-item">标签</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">关于</li>
+      </a>
+  </ul>
+</nav>
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">狮小奇</a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">首页</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">归档</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/tags/">标签</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">关于</a>
+      </li>
+  </ul>
+</nav>
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">Hexo|Hexo&#43;Next7.3.0文章显示多个阅读次数统计</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2020-04-03 </span>
+        
+        <span id="busuanzi_container_page_pv" class="more-meta"> <span id="busuanzi_value_page_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 次阅读 </span>
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#hexohexonext730文章显示多个阅读次数统计">Hexo|Hexo+Next7.3.0文章显示多个阅读次数统计</a>
+      <ul>
+        <li><a href="#现象">现象</a></li>
+        <li><a href="#解决方法">解决方法</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</div>
+    <div class="post-content">
+      <h2 id="hexohexonext730文章显示多个阅读次数统计">Hexo|Hexo+Next7.3.0文章显示多个阅读次数统计</h2>
+<h3 id="现象">现象</h3>
+<p>首页显示如下：</p>
+<p><img src="/Snipaste_2020-04-03_22-20-58.png" alt="Snipaste_2020-04-03_22-20-58"></p>
+<p>点开文章之后显示如下：</p>
+<p><img src="/Snipaste_2020-04-03_22-20-28.png" alt="Snipaste_2020-04-03_22-20-28"></p>
+<p>会有两个阅读次数显示。</p>
+<h3 id="解决方法">解决方法</h3>
+<!-- raw HTML omitted -->
+<ol>
+<li>
+<p>由于同时安装了Valine评论系统和LeanCloud文章次数统计，两款插件同时使用LeanCloud进行数据统计，会产生冲突，但Valine已对后者兼容。打开next主题配置文件<code>_config.yml</code>选择valine的visitor，然后关闭leancloud_visitors。配置如下：</p>
+<pre><code>valine:
+  visitor: true
+   
+leancloud_visitors:
+  enable: false
+</code></pre></li>
+<li>
+<p>由于使用了valine的统计文章阅读，并且也使用了 不蒜子的统计功能，造成了上边的现象，只需要将不蒜子的post_views关闭即可。如下图所示</p>
+<p><img src="/Snipaste_2020-04-03_22-18-41.png" alt="Snipaste_2020-04-03_22-18-41"></p>
+</li>
+</ol>
+
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">neobuddy</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2020-04-03
+        
+    </span>
+  </p>
+  
+  <p class="copyright-item">
+    <span class="item-title">许可协议</span>
+    <span class="item-content"><a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a></span>
+  </p>
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/hexo/">Hexo</a>
+          <a href="/tags/next/">Next</a>
+          </div>
+      <nav class="post-nav">
+        
+        <a class="next" href="/post/%E8%AE%BE%E7%BD%AE%E6%B0%B8%E4%B9%85%E9%93%BE%E6%8E%A5/">
+            <span class="next-text nav-default">Hexo|hexo&#43;next7.3.0设置永久链接</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+  <div id="vcomments"></div>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script type="text/javascript">
+    new Valine({
+        el: '#vcomments' ,
+        appId: 'Udypt4f0KgWxjRWvM7W5dnHp-gzGzoHsz',
+        appKey: 'smOiNiDcxAdNF9RX5jyvK6xo',
+        notify:  false ,
+        verify:  false ,
+        avatar:'retro',
+        placeholder: '一起交流...',
+        visitor:  false 
+    });
+  </script>
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      
+<div class="social-links">
+      <a href="mailto:bkxr@outlook.com" class="iconfont icon-email" title="email"></a>
+      <a href="https://github.com/vivau/xzsu.top" class="iconfont icon-github" title="github"></a>
+  <a href="https://xzsu.top/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+
+<div class="copyright">
+
+
+  <div class="busuanzi-footer">
+    <span id="busuanzi_container_site_pv"> PV <span id="busuanzi_value_site_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span>  </span>
+      <span class="division">|</span>
+    <span id="busuanzi_container_site_uv"> UV <span id="busuanzi_value_site_uv"><img src="/img/spinner.svg" alt="spinner.svg"/></span>  </span>
+  </div>
+
+  <span class="copyright-year">
+    &copy; 
+    2019 - 
+    2020
+  
+  </span>
+</div>
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  <script type="text/javascript" src="/lib/jquery/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="/lib/slideout/slideout-1.0.1.min.js"></script>
+  <script type="text/javascript" src="/lib/fancybox/jquery.fancybox-3.1.20.min.js"></script>
+<script type="text/javascript" src="/dist/even.b038315c.min.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -21,6 +21,20 @@
     </item>
     
     <item>
+      <title>Hexo|Hexo&#43;Next7.3.0文章显示多个阅读次数统计</title>
+      <link>https://xzsu.top/post/hexo%E6%96%87%E7%AB%A0%E6%98%BE%E7%A4%BA%E5%A4%9A%E4%B8%AA%E9%98%85%E8%AF%BB%E7%BB%9F%E8%AE%A1/</link>
+      <pubDate>Fri, 03 Apr 2020 21:12:46 +0800</pubDate>
+      
+      <guid>https://xzsu.top/post/hexo%E6%96%87%E7%AB%A0%E6%98%BE%E7%A4%BA%E5%A4%9A%E4%B8%AA%E9%98%85%E8%AF%BB%E7%BB%9F%E8%AE%A1/</guid>
+      <description>Hexo|Hexo+Next7.3.0文章显示多个阅读次数统计 现象 首页显示如下：
+点开文章之后显示如下：
+会有两个阅读次数显示。
+解决方法   由于同时安装了Valine评论系统和LeanCloud文章次数统计，两款插件同时使用LeanCloud进行数据统计，会产生冲突，但Valine已对后者兼容。打开next主题配置文件_config.yml选择valine的visitor，然后关闭leancloud_visitors。配置如下：
+valine: visitor: true leancloud_visitors: enable: false   由于使用了valine的统计文章阅读，并且也使用了 不蒜子的统计功能，造成了上边的现象，只需要将不蒜子的post_views关闭即可。如下图所示
+  </description>
+    </item>
+    
+    <item>
       <title>Hexo|hexo&#43;next7.3.0设置永久链接</title>
       <link>https://xzsu.top/post/%E8%AE%BE%E7%BD%AE%E6%B0%B8%E4%B9%85%E9%93%BE%E6%8E%A5/</link>
       <pubDate>Thu, 02 Apr 2020 21:34:28 +0800</pubDate>
